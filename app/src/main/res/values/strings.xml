@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="age">Age</string>
+    <string name="cooking">Cooking</string>
+    <string name="data">Data</string>
+    <string name="speed">speed</string>
+    <string name="timer">Timer</string>
+    <string name="temperature"> Tempera- ture</string>
+    <string name="currency">Currency</string>
+    <string name="volume">Volume</string>
+    <string name="weight">Weight</string>
+    <string name="length">Length</string>
+    <string name="area">Area</string>
+
+    <string-array name="length_units">
+        <item>μm (micrometre)</item>
+        <item>mm (millimetre)</item>
+        <item>cm (centimetre)</item>
+        <item>dm (decimetre)</item>
+        <item>m (metre)</item>
+        <item>inch</item>
+        <item>ft (foot)</item>
+        <item>yd (yard)</item>
+        <item>fathom</item>
+        <item>mile</item>
+        <item>km (kilometre)</item>
+        <item>furlong</item>
+    </string-array>
+
+    <string-array name="area_units">
+        <item>mm2</item>
+        <item>cm2</item>
+        <item>dm2</item>
+        <item>m2</item>
+        <item>inch2</item>
+        <item>ft2</item>
+        <item>yd2</item>
+        <item>acre</item>
+        <item>km2</item>
+        <item>Bigha (kaccha)</item>
+        <item>Bigha (Gujarat)</item>
+    </string-array>
+
+    <string-array name="weight_units">
+        <item>μg (Microgram)</item>
+        <item>mg (Milligram)</item>
+        <item>gram</item>
+        <item>kg</item>
+        <item>lb (pound)</item>
+        <item>Ounce</item>
+        <item>grain</item>
+        <item>quintal</item>
+        <item>tonne</item>
+        <item>carat</item>
+        <item>tola</item>
+    </string-array>
+
+    <string-array name="volume_units">
+        <item>ml(cc)</item>
+        <item>cl</item>
+        <item>dl</item>
+        <item>litre</item>
+        <item>mm3</item>
+        <item>cm3</item>
+        <item>dm3</item>
+        <item>m3</item>
+        <item>in3</item>
+        <item>ft3</item>
+        <item>yd3</item>
+    </string-array>
+
+    <string-array name="temp_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>kelvin</item>
+    </string-array>
+
+    <string-array name="time_units">
+        <item>ms</item>
+        <item>sec</item>
+        <item>min</item>
+        <item>hour</item>
+        <item>day</item>
+        <item>week</item>
+        <item>month</item>
+        <item>year</item>
+    </string-array>
+
+    <string-array name="speed_units">
+        <item>m/s</item>
+        <item>ft/s</item>
+        <item>km/s</item>
+        <item>m/min</item>
+        <item>ft/min</item>
+        <item>km/min</item>
+        <item>km/h</item>
+        <item>mi/h(mph)</item>
+        <item>knot</item>
+        <item>min/km</item>
+        <item>min/mile</item>
+    </string-array>
+
+    <string-array name="data_units">
+        <item>bit</item>
+        <item>Byte</item>
+        <item>kB</item>
+        <item>MB</item>
+        <item>GB</item>
+        <item>KiB</item>
+        <item>MiB</item>
+        <item>GiB</item>
+        <item>TiB</item>
+        <item>PiB</item>
+        <item>kbit/s</item>
+        <item>Mbit/s</item>
+        <item>Gbit/s</item>
+        <item>packet</item>
+    </string-array>
+
+    <string-array name="cook_units">
+        <item>ml(cc)</item>
+        <item>teaspoon</item>
+        <item>tablespoon</item>
+        <item>cup(metric)</item>
+        <item>fl oz(US)</item>
+        <item>pt(US)</item>
+        <item>qt(US)</item>
+    </string-array>
+</resources>
